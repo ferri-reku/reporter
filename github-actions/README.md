@@ -1,1 +1,0 @@
-This folder store reports from github actions.
