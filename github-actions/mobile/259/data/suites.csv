@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Tue Dec 26 10:10:58 UTC 2023","Tue Dec 26 10:11:58 UTC 2023","60007","","Profile","","Profile","TEST User successfully logout from application when click log out button [MOBILE2-1127 MOBILE2-1281]","TEST User successfully logout from application when click log out button [MOBILE2-1127 MOBILE2-1281]",""
