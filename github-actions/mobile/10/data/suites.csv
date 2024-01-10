@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Wed Jan 10 10:25:24 UTC 2024","Wed Jan 10 10:26:41 UTC 2024","77700","","Wallet Home","","","","TEST User should be able to see Owned asset for US Stock when click US Stock tab [MOBILE2-2546]",""
