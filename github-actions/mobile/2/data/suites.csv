@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Jan 10 08:52:30 UTC 2024","Wed Jan 10 08:52:37 UTC 2024","6585","","Home Non-login","","","","TEST User can skip welcome screen [MOBILE2-1381]",""
