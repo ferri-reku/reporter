@@ -1,3 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"broken","Tue Jan 09 14:47:55 UTC 2024","Tue Jan 09 14:47:57 UTC 2024","1608","","Profile","","","","TEST User should be able to see name and user ID on header [MOBILE2-1119]",""
-"broken","Tue Jan 09 14:47:06 UTC 2024","Tue Jan 09 14:47:09 UTC 2024","2369","","Profile - My Account","","","","TEST User can see detail information account (Verified Account) [MOBILE2-1054]",""
