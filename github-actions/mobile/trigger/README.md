@@ -1,0 +1,1 @@
+This folder store reports from github actions via manual trigger https://github.com/RekeningkuDev/mobile-flutter-automation
