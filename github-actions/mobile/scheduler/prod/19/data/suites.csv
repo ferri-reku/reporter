@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Jan 17 08:54:58 UTC 2024","Wed Jan 17 08:55:39 UTC 2024","40552","","Profile - My Account","","","","User can see detail information account (Verified Account) [MOBILE2-1054]",""
+"broken","Wed Jan 17 08:54:39 UTC 2024","Wed Jan 17 08:54:58 UTC 2024","19025","","Profile - My Account","","","","BETA Unverified user successfully redirected to verify account page when click verify now buttton [MOBILE2-1135]",""
+"passed","Wed Jan 17 08:55:39 UTC 2024","Wed Jan 17 08:55:47 UTC 2024","8315","","Profile - My Account","","","","User successfully redirected to live chat web view page when click live chat here link [MOBILE2-1137]",""
