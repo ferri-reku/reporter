@@ -1,0 +1,1 @@
+{"f6db7a6734d291a028c96bb13ae78c7b":{"statistic":{"failed":0,"broken":1,"skipped":0,"passed":0,"unknown":0,"total":1},"items":[{"uid":"cfe06daa3a4a0eb4","status":"broken","statusDetails":"There's an error when the user log in!","time":{"start":1705478684674,"stop":1705478704752,"duration":20078}}]}}
