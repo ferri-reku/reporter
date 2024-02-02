@@ -1,0 +1,1 @@
+{"6997d32f504c4210e086acb5e9f2e489":{"statistic":{"failed":0,"broken":1,"skipped":0,"passed":0,"unknown":0,"total":1},"items":[{"uid":"55983d74d43b8cd9","status":"broken","statusDetails":"element (\"[data-testid=\"welcome_signinBtn\"]\") still not displayed after 10000ms","time":{"start":1706858535778,"stop":1706858546556,"duration":10778}}]}}
