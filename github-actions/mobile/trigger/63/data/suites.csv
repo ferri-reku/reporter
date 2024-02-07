@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Feb 07 04:47:26 UTC 2024","Wed Feb 07 04:48:19 UTC 2024","52773","","Wallet - Crypto - Transaction Detail","","","","BETA-V3 User should be able to see transaction detail of Sell Crypto status Success [MOBILE2-3324]",""
+"passed","Wed Feb 07 04:49:07 UTC 2024","Wed Feb 07 04:49:49 UTC 2024","42360","","Wallet - Crypto - Transaction Detail","","","","BETA-V3 User should be able to see transaction detail of Giveaway [MOBILE2-3331]",""
+"broken","Wed Feb 07 04:49:49 UTC 2024","Wed Feb 07 04:51:50 UTC 2024","120583","","Wallet - Crypto - Transaction Detail","","","","BETA-V3 User should be able to see transaction detail of Receive Crypto [MOBILE2-3329]",""
+"passed","Wed Feb 07 04:45:02 UTC 2024","Wed Feb 07 04:46:23 UTC 2024","81417","","Wallet - Crypto - Transaction Detail","","","","BETA-V3 User should be able to see transaction detail of Staking Earned [MOBILE2-3332]",""
+"passed","Wed Feb 07 04:46:23 UTC 2024","Wed Feb 07 04:47:26 UTC 2024","63387","","Wallet - Crypto - Transaction Detail","","","","BETA-V3 User should be able to see transaction detail of Buy Crypto status Success [MOBILE2-3320]",""
+"passed","Wed Feb 07 04:48:19 UTC 2024","Wed Feb 07 04:49:07 UTC 2024","47791","","Wallet - Crypto - Transaction Detail","","","","BETA-V3 User should be able to see transaction detail of Send Crypto [MOBILE2-3328]",""
