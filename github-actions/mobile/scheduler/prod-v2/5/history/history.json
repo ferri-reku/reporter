@@ -1,0 +1,1 @@
+{"0d72c1f6c27d99d690501b6b28be94eb":{"statistic":{"failed":0,"broken":1,"skipped":0,"passed":0,"unknown":0,"total":1},"items":[{"uid":"f254338a863d5b85","status":"broken","statusDetails":"Element 'key=walletBottomNavigationBar' is not displayed after 5000ms !","time":{"start":1710834876760,"stop":1710834956716,"duration":79956}}]}}
