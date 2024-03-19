@@ -1,0 +1,1 @@
+This folder store reports from github actions via scheduler job PROD V2 https://github.com/RekeningkuDev/mobile-flutter-automation
