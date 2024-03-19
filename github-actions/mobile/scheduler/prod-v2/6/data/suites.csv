@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Mar 19 08:06:23 UTC 2024","Tue Mar 19 08:07:03 UTC 2024","40461","","Wallet Deposit IDR","","","","(VIP-BCA) User successfully submit deposit with Virtual Account [MOBILE2-1765] - PROD_ISS",""
