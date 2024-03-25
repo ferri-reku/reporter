@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Mon Mar 25 04:53:39 UTC 2024","Mon Mar 25 04:56:39 UTC 2024","180008","","Wallet Home","","","","User successfully redirected to withdraw page when click withdraw idr [MOBILE2-1088] | PROD_ISS",""
+"passed","Mon Mar 25 04:52:42 UTC 2024","Mon Mar 25 04:52:50 UTC 2024","7852","","Wallet Home","","","","User successfully redirected to total IDR balance when click balance [MOBILE2-1075 MOBILE2-1080 MOBILE2-1579 MOBILE2-2337] | PROD_ISS",""
+"passed","Mon Mar 25 04:52:02 UTC 2024","Mon Mar 25 04:52:42 UTC 2024","39481","","Wallet Home","","","","User successfully redirected to transaction history page when click history icon [MOBILE2-649] | PROD_ISS",""
+"passed","Mon Mar 25 04:52:50 UTC 2024","Mon Mar 25 04:53:33 UTC 2024","43467","","Wallet Home","","","","User should be able to see open order balance [MOBILE2-1583] | PROD_ISS",""
+"broken","Mon Mar 25 04:56:39 UTC 2024","Mon Mar 25 04:58:03 UTC 2024","83536","","Wallet Home","","","","User successfully redirected to idr transaction history page when click history icon [MOBILE2-1585] | PROD_ISS",""
+"passed","Mon Mar 25 04:53:33 UTC 2024","Mon Mar 25 04:53:39 UTC 2024","5882","","Wallet Home","","","","User successfully redirected to transfer from page when click deposit idr [MOBILE2-1087] | PROD_ISS",""
