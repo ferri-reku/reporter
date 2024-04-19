@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Apr 19 06:43:59 UTC 2024","Fri Apr 19 06:44:38 UTC 2024","38422","","Wallet - Crypto - Transaction Detail","","","","User should be able to see transaction detail of Buy Crypto status Canceled [MOBILE2-3321] | BETA-V3",""
+"passed","Fri Apr 19 06:42:23 UTC 2024","Fri Apr 19 06:43:59 UTC 2024","96014","","Wallet - Crypto - Transaction Detail","","","","User should be able to see transaction detail of Buy Crypto status Success [MOBILE2-3320] | BETA-V3",""
+"passed","Fri Apr 19 06:46:14 UTC 2024","Fri Apr 19 06:46:49 UTC 2024","35696","","Wallet - Crypto - Transaction Detail","","","","User should be able to see transaction detail of Giveaway [MOBILE2-3331] | BETA-V3",""
+"passed","Fri Apr 19 06:45:35 UTC 2024","Fri Apr 19 06:46:14 UTC 2024","38879","","Wallet - Crypto - Transaction Detail","","","","User should be able to see transaction detail of Sell Crypto status Canceled [MOBILE2-3325] | BETA-V3",""
+"passed","Fri Apr 19 06:44:38 UTC 2024","Fri Apr 19 06:45:35 UTC 2024","56906","","Wallet - Crypto - Transaction Detail","","","","User should be able to see transaction detail of Sell Crypto status Success [MOBILE2-3324] | BETA-V3",""
