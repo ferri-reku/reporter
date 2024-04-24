@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Apr 24 02:50:02 UTC 2024","Wed Apr 24 02:51:24 UTC 2024","82106","","Wallet Deposit IDR","","","","(VIP-BCA) User successfully submit deposit with Transfer Bank and see the status deposit via Bank Transfer is waiting for payment [MOBILE2-1705 MOBILE2-175] | PROD_ISS",""
