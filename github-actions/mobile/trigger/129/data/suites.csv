@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Apr 29 07:47:37 UTC 2024","Mon Apr 29 07:48:23 UTC 2024","45962","","US Stock - Market","","","","User can sorting asset us stock [MOBILE2-3483] | BETA-V3",""
+"passed","Mon Apr 29 07:46:11 UTC 2024","Mon Apr 29 07:46:28 UTC 2024","17197","","US Stock - Market","","","","User can search asset us stock [MOBILE2-3479] | BETA-V3",""
+"passed","Mon Apr 29 07:46:28 UTC 2024","Mon Apr 29 07:46:43 UTC 2024","14780","","US Stock - Market","","","","User cant search asset us stock when the coin isnt in the list [MOBILE2-3623] | BETA-V3",""
+"passed","Mon Apr 29 07:46:43 UTC 2024","Mon Apr 29 07:47:13 UTC 2024","30128","","US Stock - Market","","","","User can adding asset us stock to watchlist [MOBILE2-3626] | BETA-V3",""
+"passed","Mon Apr 29 07:47:13 UTC 2024","Mon Apr 29 07:47:37 UTC 2024","24103","","US Stock - Market","","","","User can remove asset us stock from watchlist [MOBILE2-3627] | BETA-V3",""
+"passed","Mon Apr 29 07:45:15 UTC 2024","Mon Apr 29 07:46:11 UTC 2024","55499","","US Stock - Market","","","","User successfully redirected to market us stock page [MOBILE2-3622] | BETA-V3",""
